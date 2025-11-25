@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\migrations\\20251017010405_criacaooriginal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:migrations\\20251017010405_criacaooriginal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\clienteapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:clienteapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|c:\\users\\david.csjesus\\onedrive - senac - sp\\uc7\\clienteapi\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB88E10B-806B-4BB6-887C-F7CB3046491D}|ClienteApi.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:16:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T23:16:02.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20251017010405_CriacaoOriginal.cs",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Migrations\\20251017010405_CriacaoOriginal.cs",
+              "RelativeDocumentMoniker": "Migrations\\20251017010405_CriacaoOriginal.cs",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Migrations\\20251017010405_CriacaoOriginal.cs",
+              "RelativeToolTip": "Migrations\\20251017010405_CriacaoOriginal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T01:04:05.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T00:42:03.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T00:27:57.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:23:46.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteApi.csproj",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\ClienteApi.csproj",
+              "RelativeDocumentMoniker": "ClienteApi.csproj",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\ClienteApi.csproj",
+              "RelativeToolTip": "ClienteApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-16T23:22:14.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\david.csjesus\\OneDrive - SENAC - SP\\UC7\\ClienteApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T23:01:58.148Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
