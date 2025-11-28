@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiniLoginMaui.MainPage"
+             Title="Mini Login"
+             >
+    <ContentPage.Content> 
+        <StackLayout Padding="200" Spacing="16">
+
+            <Label Text="Bem Vindo(a)!"/>
+            <Label Text="Faca seu login para continuar."/>
+
+            <Grid ColumnSpacing="8" RowSpacing="12" Margin="0,8,0,0" 
+                  RowDefinitions="Auto,Auto,Auto" ColumnDefinitions="Auto,*" >
+
+                <Label
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Text="Usuarios"/>
+
+                <Entry
+                    x:Name="UserNameEntry"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Placeholder="Digite seu usuario"/>
+
+                <Label
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Text="Senha"/>
+
+                <Entry
+                    x:Name="SenhaEntry"
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    Placeholder="Digite sua senha"
+                    IsPassword="True"/>
+
+                <Label
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Text="Perfil"/>
+
+                <Picker
+                    x:Name="PerfilPicker"
+                    Grid.Row="2"
+                    Grind.Column="1">
+
+                    <Picker.Items>
+                        <x:String>Administrador</x:String>
+                        <x:String>Usuario</x:String>
+                        <x:String>Convidado</x:String>
+                    </Picker.Items>
+
+                </Picker>
+
+
+
+            </Grid>
+            <Button
+                x:Name="LoginButton"
+                Text="Entrar"/>
+
+            <Label
+                x:Name="Feedback"
+                Text="Preencha seus dados para entrar....."
+                />
+
+
+        </StackLayout>
+    </ContentPage.Content>
+
+    
+
+</ContentPage>
