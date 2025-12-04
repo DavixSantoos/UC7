@@ -92,7 +92,21 @@ namespace apiAutenticacao.Controllers
 
 
 		}
-
+        
+        [HttpPut("alterarEmail")]
+        public async Task<IActionResult> AlterarEmail([FromBody] AlteracaoEmailDTO dadosUsuario)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+            ResponseAlterarEmail response = await _authService.AlterarEmail(dadosUsuario);
+            if (response.Erro)
+            {
+                return BadRequest(response);
+            }
+            return Ok(response);
+        }
 
 	}
 }

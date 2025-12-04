@@ -136,7 +136,8 @@ namespace apiAutenticacao.Services
 					userEncontrado.Senha = HashPassword(dadosUsuarioAlterar.NovaSenha);
 					_context.Usuarios.Update(userEncontrado);
 					await _context.SaveChangesAsync();
-					return new ResponseAlterarSenhaDTO  { 
+					return new ResponseAlterarSenhaDTO 
+                    { 
                     
                         Erro = false,
                         Message = "Senha alterada com sucesso"
@@ -154,12 +155,33 @@ namespace apiAutenticacao.Services
 
 
 
-		}
+        }
+        
+        public async Task<ResponseAlterarEmail> AlterarEmail(AlteracaoEmailDTO dadosUsuarioEmail) 
+        {
+            Usuario? UserEncotrado = await _context.Usuarios.FirstOrDefaultAsync(usuario => usuario.Email == dadosUsuarioEmail.EmailAtual);
+            if (UserEncotrado != null)
+            {
+                UserEncotrado.Email = dadosUsuarioEmail.NovoEmail;
+                _context.Usuarios.Update(UserEncotrado);
+                await _context.SaveChangesAsync();
+                return new ResponseAlterarEmail
+                {
 
-
-
-
-
-
+                    Erro = false,
+                    Message = "Email alterado com sucesso",
+                    Usuario = UserEncotrado
+                };
+                    
+                
+                }
+                    
+                return new ResponseAlterarEmail
+                {
+                    Erro = true,
+                    Message = "Email não pôde ser alterado. Confira seus dados e tente novamente."
+                };
+            }
+        }
     }
-}
+       
